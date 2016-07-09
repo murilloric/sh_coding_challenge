@@ -20,7 +20,6 @@ var TxBlkg = {
 		});
 
 		return output_lines
-
 	},
 	createNewArray:function(lines){
 		return lines[0].split('')
@@ -56,7 +55,6 @@ var TxBlkg = {
 			console.log('ERROR:please stick to the prose of passage')
 			return false
 		}
-
 	}
 }
 
