@@ -35,16 +35,6 @@ html, body {
 	background: black;
 }
 
-
-/*.sh_modal_wrapper{
-  margin: 50px;
-  position: absolute;
-  top: 0;
-  left: 10%;
-  width: 65%;
-  background:#fff;
-}*/
-
 .sh_modal_wrapper{
 	position: fixed;
     top: 50%;

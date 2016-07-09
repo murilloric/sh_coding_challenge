@@ -42,10 +42,10 @@ function testProseThree(){
 	}
 }
 
-//RUN TEST
-testProseOne()
-testProseTwo()
-testProseThree()
+//UNCOMMENT TO RUN TEST
+// testProseOne()
+// testProseTwo()
+// testProseThree()
 
 
 
@@ -54,9 +54,9 @@ testProseThree()
 var races_one = ["12:00 PM, DAY 1", "12:01 PM, DAY 1"]
 var races_two = ['12:00 AM, DAY 2']
 var races_three = ["02:00 PM, DAY 19", "02:00 PM, DAY 20", "01:58 PM, DAY 20"]
+var races_four = []
 
 var race = new RaceAverage()
-
 
 function testRaceOne(){
 	var correct_avg = 241
@@ -91,7 +91,7 @@ function testRaceThree(){
 	}
 }
 
-///RUN TEST
-testRaceOne()
-testRaceTwo()
-testRaceThree()
+///UNCOMMENT TO RUN TEST
+// testRaceOne()
+// testRaceTwo()
+// testRaceThree()
